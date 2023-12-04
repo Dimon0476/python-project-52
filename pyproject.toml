@@ -15,7 +15,7 @@ requests = "^2.31.0"
 gunicorn = "^20.1.0"
 Django = "^4.2.7"
 django-bootstrap4 = "^22.3"
-rollbar = "^1.0.0"
+rollbar = "^0.16.3"
 psycopg2-binary = "^2.8.6"
 django-filter = "^23.4"
 
