@@ -322,8 +322,8 @@ msgstr "Пользователь успешно удалён"
 
 #: .\task_manager\views.py:9
 msgid "Successfully login"
-msgstr "Вы зашли"
+msgstr "Вы залогинены"
 
 #: .\task_manager\views.py:16
 msgid "Successfully logout"
-msgstr "Вы вышли"
+msgstr "Вы разлогинены"
