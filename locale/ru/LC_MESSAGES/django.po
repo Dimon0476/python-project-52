@@ -249,7 +249,7 @@ msgstr "Пользователи"
 
 #: .\task_manager\templates\navigation.html:22
 msgid "Logout"
-msgstr "Выйти"
+msgstr "Выход"
 
 #: .\task_manager\templates\navigation.html:26
 msgid "Login"
