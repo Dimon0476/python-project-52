@@ -318,7 +318,7 @@ msgstr "Пользователь успешно изменен"
 
 #: .\task_manager\users\views.py:61
 msgid "User successfully deleted"
-msgstr "Пользователь успешно удалён"
+msgstr "Пользователь успешно удален"
 
 #: .\task_manager\views.py:9
 msgid "Successfully login"
